@@ -1,5 +1,5 @@
 # Portfolio
-This is portfolio, Also my first project made with HTML and CSS
+This is my portfolio, Also my first project made with HTML and CSS.
 
-Hosted on GitHub
+This web page is hosted on GitHub.
 website: https://surajit-tunga.github.io/Portfolio/
